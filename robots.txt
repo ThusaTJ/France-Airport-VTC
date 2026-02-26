@@ -1,0 +1,18 @@
+# robots.txt – France Airport Taxi
+# https://www.franceairporttaxi.com/robots.txt
+
+# Allow all well-behaved crawlers
+User-agent: *
+Allow: /
+
+# Block access to any private or admin directories (future-proofing)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+# Crawl-delay for less aggressive bots
+Crawl-delay: 10
+
+# Sitemap location
+Sitemap: https://www.franceairporttaxi.com/sitemap.xml
