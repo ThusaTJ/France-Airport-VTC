@@ -7,7 +7,7 @@
   <!-- Homepage – highest priority -->
   <url>
     <loc>https://thusatj.github.io/France-Airport-VTC/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- About Page -->
   <url>
     <loc>https://thusatj.github.io/France-Airport-VTC/about.html</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2026-02-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -23,7 +23,7 @@
   <!-- FAQ Page -->
   <url>
     <loc>https://thusatj.github.io/France-Airport-VTC/faq.html</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2026-02-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -31,7 +31,7 @@
   <!-- Contact Page -->
   <url>
     <loc>https://thusatj.github.io/France-Airport-VTC/contact.html</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2026-02-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
