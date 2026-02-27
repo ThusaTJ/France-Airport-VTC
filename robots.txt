@@ -1,5 +1,5 @@
 # robots.txt – France Airport Taxi
-# https://www.franceairporttaxi.com/robots.txt
+# https://thusatj.github.io/France-Airport-VTC/robots.txt
 
 # Allow all well-behaved crawlers
 User-agent: *
@@ -15,4 +15,4 @@ Disallow: /tmp/
 Crawl-delay: 10
 
 # Sitemap location
-Sitemap: https://www.franceairporttaxi.com/sitemap.xml
+Sitemap: https://thusatj.github.io/France-Airport-VTC/sitemap.xml
